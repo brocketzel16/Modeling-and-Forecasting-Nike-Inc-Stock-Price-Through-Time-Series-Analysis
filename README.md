@@ -1,1 +1,1 @@
-# Modeling and Forecasting Nike Inc Stock Price Through Time Series Analysis (file:///C:/Users/brock/Documents/Modeling%20and%20Forecasting%20Nike%20Inc%20Stock%20Price%20Through%20Time%20Series%20Analysis.pdf)
+# Modeling and Forecasting Nike Inc Stock Price Through Time Series Analysis
